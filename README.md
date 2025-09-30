@@ -2,6 +2,12 @@
 
 A simple, responsive client-side weather application that shows current conditions for your location or a searched city. It uses the OpenWeatherMap API, browser Geolocation, and a clean UI.
 
+### Screenshot
+<img width="1674" height="963" alt="Screenshot 2025-09-30 at 9 51 49 PM" src="https://github.com/user-attachments/assets/634f9299-0a6d-4182-8ce5-7bffaf2f068e" />
+<img width="1679" height="960" alt="Screenshot 2025-09-30 at 9 52 07 PM" src="https://github.com/user-attachments/assets/6e9f51b3-a3d2-4aec-9340-e5b73787ef3c" />
+
+
+
 ### Features
 - **Your Weather**: Uses browser geolocation to fetch current weather for your coordinates.
 - **Search Weather**: Search by city name.
